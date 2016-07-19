@@ -59,13 +59,20 @@
         </div>
     </div>
     <br>
+    <div class="conteiner">
+        <div class="row">
     <div class="btn-group-vertical">
-        <button type="button" class="btn-tema">Tema 1</button>
-            <button type="button" class="btn-tema">Tema 2</button>
-            <button type="button" class="btn-tema">Tema 3</button>
-            <button type="button" class="btn-tema">Tema 4</button>
-            <button type="button" class="btn-tema">Tema 5</button>
-            <button type="button" class="btn-tema">Tema 6</button>
-            <button type="button" class="btn-tema">Tema 7</button>
+        <div class="col-md-2 col-md">
+
+            <button type="button" class="btn-barra  btn-lg">Matemáticas</button>
+            <button type="button" class="btn-barra  btn-lg">Ciencias</button>
+            <button type="button" class="btn-barra  btn-lg">Español</button>
+            <button type="button" class="btn-barra  btn-lg">Sociales</button>
+            <button type="button" class="btn-barra  btn-lg">Inglés</button>
+            <button type="button" class="btn-barra  btn-lg">Calificación</button>
+        </div>
+    </div>
+        </div>
+    </div>
     </body>
 </html>
