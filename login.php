@@ -19,7 +19,7 @@ while ($line = mysql_fetch_array($result, MYSQL_ASSOC)) {
        if ($password == $col_value) {
         session_start();
         $_SESSION["newsession"]= $usuario;
-        header("Location: http://localhost/sena/principal.php");
+        header("Location: http://localhost:8088/sena/principal.php");
     die();
         echo "loguin correcto";
        }

@@ -15,7 +15,7 @@
     </head>
 
     <body>
-     <nav class="navbar navbar">
+    <nav class="navbar navbar">
     <div class="container-fluid">
     <div class="navbar-header">
         <a class="navbar-brand" href="#" class="thumbnail">

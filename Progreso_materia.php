@@ -27,9 +27,9 @@
             <span class="caret"></span>
             </button>
                 <ul class="dropdown-menu" role="menu">
-                    <li><a class="text-center" href="http://localhost/sena/principal.php">Mi cuenta</a></li>
+                    <li><a class="text-center" href="http://localhost:8088/sena/principal.php">Mi cuenta</a></li>
                     <li><a class="text-center" href="#">Mi progreso</a></li>
-                    <li><a class="text-center" href="http://localhost/sena/salir.php">Cerrar sesión</a></li>
+                    <li><a class="text-center" href="http://localhost:8088/sena/salir.php">Cerrar sesión</a></li>
                 </ul>
             </div>
             </ul>

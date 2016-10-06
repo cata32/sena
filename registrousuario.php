@@ -91,8 +91,9 @@
         <div class="col-xs-4">
             <select class="form-control" id="tipo" name="tipo">
                 <option>Estudiante</option>
-                 <option>Profesor</option>
-                  <option>Padre de Familia</option>
+                <option>Profesor</option>
+                <option>Padre de Familia</option>
+                <option>Administrador</option>
             </select>
         </div>
     </div>
